@@ -246,7 +246,7 @@ Los componentes privados, las credenciales, los secretos de configuración y la 
 
 Cuando esté disponible públicamente, la documentación específica de infraestructura podrá consultarse aquí:
 
-* [Documentación de infraestructura](https://github.com/drivenbycode1-byte/drivenbycode/blob/main/infraestructura.md)
+* [Documentación de infraestructura](https://github.com/drivenbycode1-byte/drivenbycode_web/blob/main/infraestructura.md)
 
 **Nota:** este enlace debe mantenerse únicamente si el documento está disponible para visitantes sin permisos especiales. Si el repositorio principal se vuelve privado, será necesario publicar una versión independiente y revisada de la documentación que se quiera compartir.
 
