@@ -289,7 +289,8 @@ La documentación se actualizará a medida que cambien el alcance, la arquitectu
 Para consultas, colaboraciones, propuestas editoriales o iniciativas relacionadas con el proyecto:
 
 * **Web:** [www.drivenbycode.cl](https://www.drivenbycode.cl/)
-* **Correo:** [diego@drivenbycode.cl](mailto:diego@drivenbycode.cl)
+* **Instagram:** [https://www.instagram.com/diegosilva.baeza/](https://www.instagram.com/diegosilva.baeza/)
+* **Correo:** [drivenbycode.1@gmail.com](mailto:drivenbycode.1@gmail.com)
 * **GitHub:** [drivenbycode1-byte](https://github.com/drivenbycode1-byte)
 
 ---
